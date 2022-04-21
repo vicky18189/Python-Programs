@@ -41,6 +41,7 @@ def draw_shapes():
 #     mak.speed(0)   
 #     draw_triangle(mak)
 
+    # window.exitonclick()
     window.exitonclick()
 
 draw_shapes()
