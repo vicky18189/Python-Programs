@@ -21,7 +21,7 @@ def draw_shapes():
     brad = turtle.Turtle()
     brad.shape("turtle")
     brad.color("white")
-    brad.speed(2)
+    brad.speed(0)
     for i in range(1,36):
         draw_square(brad)
         brad.right(10)
