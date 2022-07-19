@@ -12,7 +12,7 @@ from ftplib import FTP, ftpcp
 
 FTP_HOST = 'ftp.universalbackground.com'
 FTP_USER = 'exxat'
-FTP_PASS = 'T7B7vtG!EvTZ'
+FTP_PASS = '*******'
 dir_dest = '/' # Directory where the files needs to be downloaded to
 rem_dir = '/' # Directory where the files are present on the FTP server
 pattern = '*background*.pdf' #filename pattern for what the script is looking for 
